@@ -30,6 +30,14 @@ public class PrimitiveTypeExample {
         long longVar = 9223372036854775807L;
 
         /*실수형 - 실수 값을 저장*/
-        float floatVarMin = 3.14F;
+        float floatVar = 3.14F; // float형을 사용할 때는 f or F를 붙여줘야함
+        double doubleVar = 3.14e3f; // 실수의 기본 자료형
+
+        // char는 연산에서 ASCII 코드로 변환되어 계산
+        System.out.println("1" + "2"); // 12 string
+        System.out.println(true + ""); // true + 공백
+        System.out.println('A' + 'B'); // 131 -> 65 + 66
+        System.out.println('1' + 2); // 51 -> 49 + 2
+        System.out.println('1' + '2'); // 99 -> 49 + 50
     }
 }
