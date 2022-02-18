@@ -5,7 +5,7 @@ public class PrimitiveTypeExample {
 
         /*8bit -> 1byte
         * 1byte -> 256 크기 저장 가능*/
-        /*Primitive type은 실제 값을 메모리에 저장*/
+        /*Primitive type은 실제 값을 스택 메모리에 저장*/
 
         /*논리형 - 조건식과 논리적 계산에 사용(1byte)*/
         Boolean trueOrFalse = true;
