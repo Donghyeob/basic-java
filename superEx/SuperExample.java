@@ -1,6 +1,6 @@
 package superEx;
 
-public class superExample {
+public class SuperExample {
     public static void main(String[] args) {
         Child c = new Child();
         c.method();

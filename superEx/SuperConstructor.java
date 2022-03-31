@@ -1,6 +1,6 @@
 package superEx;
 
-public class superConstructor {
+public class SuperConstructor {
     public static void main(String[] args) {
         Point3D p = new Point3D(1, 2, 3);
         System.out.println("x : " + p.x + ", y : " + p.y + ", z : " + p.z); // x : 1, y : 2, z : 3

@@ -1,6 +1,6 @@
 package overriding;
 
-public class overridingExample {
+public class OverridingExample {
     public static void main(String[] args) {
         class Point {
             int x = 1;

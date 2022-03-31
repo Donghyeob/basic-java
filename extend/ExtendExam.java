@@ -18,7 +18,7 @@ class SmartTv extends Tv {
     }
 }
 
-public class extendExam {
+public class ExtendExam {
     public static void main(String[] args) {
         SmartTv stv = new SmartTv();
 
