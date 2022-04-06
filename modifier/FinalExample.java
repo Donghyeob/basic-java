@@ -1,4 +1,4 @@
-package modifierExam;
+package modifier;
 
 public class FinalExample extends FinalExam { // Cannot inherit from final
     public static void main(String[] args) {
