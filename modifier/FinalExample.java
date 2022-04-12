@@ -1,6 +1,7 @@
 package modifier;
 
-public class FinalExample extends FinalExam { // Cannot inherit from final
+//public class FinalExample extends FinalExam { // Cannot inherit from final
+public class FinalExample { // Cannot inherit from final
     public static void main(String[] args) {
         System.out.println(FinalExam.WIDTH); // 200
     }
